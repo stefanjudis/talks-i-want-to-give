@@ -57,9 +57,9 @@ Hello audience! 👋🏻
 In this talk you'll learn about core accessibility and inclusive design principles that are overlooked very often in the world of Single Page Applications. Products we build today should work for everybody but unfortunately the state of the web shows something else. It's more about the latest tech trend rather then good product. 
 
 Let's have a look at what it takes to build a React app that doesn't exclude people from using it.
-</detail>
+</details>
 
-## I didn't know that
+## I didn't know that!
 
 <details>
   <summary>Elevator pitch</summary>
